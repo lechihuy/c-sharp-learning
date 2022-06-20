@@ -1,0 +1,15 @@
+/Users/lechihuy/dev/learning/C#/Learning/Learning/bin/Debug/net6.0/Learning
+/Users/lechihuy/dev/learning/C#/Learning/Learning/bin/Debug/net6.0/Learning.deps.json
+/Users/lechihuy/dev/learning/C#/Learning/Learning/bin/Debug/net6.0/Learning.runtimeconfig.json
+/Users/lechihuy/dev/learning/C#/Learning/Learning/bin/Debug/net6.0/Learning.dll
+/Users/lechihuy/dev/learning/C#/Learning/Learning/bin/Debug/net6.0/ref/Learning.dll
+/Users/lechihuy/dev/learning/C#/Learning/Learning/bin/Debug/net6.0/Learning.pdb
+/Users/lechihuy/dev/learning/C#/Learning/Learning/obj/Debug/net6.0/Learning.csproj.AssemblyReference.cache
+/Users/lechihuy/dev/learning/C#/Learning/Learning/obj/Debug/net6.0/Learning.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lechihuy/dev/learning/C#/Learning/Learning/obj/Debug/net6.0/Learning.AssemblyInfoInputs.cache
+/Users/lechihuy/dev/learning/C#/Learning/Learning/obj/Debug/net6.0/Learning.AssemblyInfo.cs
+/Users/lechihuy/dev/learning/C#/Learning/Learning/obj/Debug/net6.0/Learning.csproj.CoreCompileInputs.cache
+/Users/lechihuy/dev/learning/C#/Learning/Learning/obj/Debug/net6.0/Learning.dll
+/Users/lechihuy/dev/learning/C#/Learning/Learning/obj/Debug/net6.0/ref/Learning.dll
+/Users/lechihuy/dev/learning/C#/Learning/Learning/obj/Debug/net6.0/Learning.pdb
+/Users/lechihuy/dev/learning/C#/Learning/Learning/obj/Debug/net6.0/Learning.genruntimeconfig.cache
