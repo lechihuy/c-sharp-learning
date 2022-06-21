@@ -11,5 +11,5 @@ firstNumber = secondNumber;
 secondNumber = temp;
 
 Console.WriteLine("Swap two number:");
-Console.WriteLine($"First number:" + firstNumber);
-Console.WriteLine($"Second number:" + secondNumber);
+Console.WriteLine("First number:" + firstNumber);
+Console.WriteLine("Second number:" + secondNumber);
