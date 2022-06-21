@@ -1,11 +1,14 @@
 ﻿<Properties StartupConfiguration="{C2B02E10-4A1D-4016-940A-4845F5148299}|Default" GitUserInfo="UsingGIT">
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Learning/Program.cs">
     <Files>
-      <File FileName="Learning/Program.cs" Line="6" Column="6" />
+      <File FileName="Learning/Program.cs" Line="14" Column="36" />
+      <File FileName="Learning/GenericList.cs" Line="3" Column="20" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
